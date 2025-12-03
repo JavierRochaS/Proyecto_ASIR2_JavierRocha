@@ -23,7 +23,7 @@ Para soportar la carga de trabajo de unos 40-50 usuarios concurrentes accediendo
 * **Conectividad:** Doble interfaz de red Gigabit o 10G para redundancia y balanceo de carga.
 
 **Rango de Inversión Estimado:**
-Basado en precios de mercado para servidores de torre o rack de gama entrada/media con estas características y garantía profesional (3-5 años in situ), la inversión inicial en hardware se estima en una horquilla de **2.500 € a 4.500 €**.
+Basado en precios de mercado para servidores de torre o rack de gama baja/media con estas características y garantía profesional (3-5 años in situ), la inversión inicial en hardware se estima en una horquilla de **2.500 € a 4.500 €**.
 
 Esta inversión es perfectamente asumible para una empresa de la facturación de Lamaigniere, especialmente considerando que sustituye a múltiples equipos obsoletos y descentralizados, y que su coste se amortiza en varios años.
 
