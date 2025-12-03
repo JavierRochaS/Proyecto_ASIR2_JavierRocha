@@ -27,7 +27,7 @@
    *Datos extraídos del Informe SEPE 2025 sobre el crecimiento TIC en Sevilla.*
 
 2. [**Selección de la empresa o contexto de trabajo**](./02_Empresa_Contexto.md)
-   *Ficha de "Logística del Guadalquivir S.L." en el Polígono La Estrella.*
+   *Ficha de " Lamaigniere Shipping, S.L." en el Polígono La Isla.*
 
 3. [**Identificación de necesidades tecnológicas**](./03_Necesidades.md)
    *Auditoría de carencias (Backups, Redes y Seguridad).*
