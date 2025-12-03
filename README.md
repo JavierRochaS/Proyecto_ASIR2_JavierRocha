@@ -1,6 +1,6 @@
-# Proyecto_ASIR2_ManuelDominguez
+# Proyecto_ASIR2_JavierRocha
 
-**Diseño de Infraestructura Empresarial Segura y Automatizada**
+**Diseño de Infraestructura TIC Integral y Resiliente para PYME Logística**
 
 ![Redes](https://img.shields.io/badge/Redes-SRI-blue)
 ![Sistemas Operativos](https://img.shields.io/badge/SO-ASO-orange)
@@ -10,9 +10,8 @@
 ![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
-## Nombre del alumno:
-## Título del proyecto:
-
+## Alumno: Javier Alejandro Rocha Sánchez
+## Título: Implantación de Nube Privada Corporativa, Servicios de Alta Disponibilidad y Monitorización Proactiva en entorno virtualizado.
 ## Índice del proyecto
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)
