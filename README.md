@@ -23,7 +23,7 @@
 6. Guion inicial del proyecto  
 ---
 
-### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./UD2/ud2.md)
+### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./ud2/ud2.md)
 1. Recopilación de información técnica  
 2. Diseño lógico y físico de la infraestructura  
 3. Definición de objetivos y fases del proyecto  
@@ -32,7 +32,7 @@
 
 ---
 
-### [UD3 – Planificación y ejecución del proyecto técnico](./UD3/ud3.md)
+### [UD3 – Planificación y ejecución del proyecto técnico](./ud3/ud3.md)
 1. Planificación de actividades  
 2. Gestión de recursos y logística  
 3. Procedimientos de ejecución  
@@ -41,7 +41,7 @@
 
 ---
 
-### [UD4 – Seguimiento, control y evaluación del proyecto](./UD4/ud4.md)
+### [UD4 – Seguimiento, control y evaluación del proyecto](./ud4/ud4.md)
 1. Procedimientos de seguimiento  
 2. Gestión de incidencias y cambios  
 3. Evaluación del proyecto  
