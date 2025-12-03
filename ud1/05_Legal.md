@@ -10,8 +10,8 @@ Dada la naturaleza de la información tratada por Lamaigniere Shipping (datos de
 * **Confidencialidad:** Los sistemas de backup incluirán cifrado robusto para proteger la información almacenada fuera de las instalaciones principales.
 
 > **Referencias Normativas Adjuntas:**
-> * [Reglamento General de Protección de Datos (RGPD - UE)](./documentos/RPGD.pdf)
-> * [Ley Orgánica de Protección de Datos (LOPDGDD - España)](./documentos/BOE-protecciondedatos.pdf)
+> * [Reglamento General de Protección de Datos (RGPD - UE)](documentos/RPGD.pdf)
+> * [Ley Orgánica de Protección de Datos (LOPDGDD - España)](documentos/BOE-protecciondedatos.pdf)
 
 ---
 
@@ -22,7 +22,7 @@ Para garantizar la seguridad jurídica y la sostenibilidad económica de la nuev
 * **Auditoría de Cumplimiento:** Como paso previo a la implantación, se requiere realizar un inventario para detectar y regularizar cualquier software propietario sin licencia válida en la infraestructura actual.
 
 > **Referencia Normativa Adjunta:**
-> * [Ley de Propiedad Intelectual (Texto Refundido)](./documentos/BOE-propiedadintelectual.pdf)
+> * [Ley de Propiedad Intelectual (Texto Refundido)](documentos/BOE-propiedadintelectual.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ La empresa presta servicios por vía electrónica a través de sus plataformas w
 * **Seguridad de las Comunicaciones:** Se garantizará que el acceso a la nueva intranet corporativa y a la plataforma de gestión documental se realice exclusivamente a través de protocolos seguros (HTTPS) con certificados válidos, protegiendo la integridad y confidencialidad de las comunicaciones telemáticas.
 
 > **Referencia Normativa Adjunta:**
-> * [Ley de Servicios de la Sociedad de la Información (LSSI-CE)](./documentos/BOE-lss.pdf)
+> * [Ley de Servicios de la Sociedad de la Información (LSSI-CE)](documentos/BOE-lss.pdf)
 
 ---
 
@@ -43,4 +43,4 @@ El diseño de la solución tendrá en cuenta la seguridad física y ergonómica 
 * **Ergonomía:** La configuración de los puestos de trabajo informatizados deberá respetar las pautas sobre pantallas de visualización de datos (PVD) para prevenir la fatiga visual y postural.
 
 > **Referencia Normativa Adjunta:**
-> * [Ley de Prevención de Riesgos Laborales (PRL)](./documentos/BOE-PRL.pdf)
+> * [Ley de Prevención de Riesgos Laborales (PRL)](documentos/BOE-PRL.pdf)
