@@ -13,7 +13,7 @@ Según el **Informe de Coyuntura Económica de la Cámara de Comercio de Sevilla
 * **Impulso Tecnológico:** La provincia de Sevilla se consolida como un polo de atracción para empresas tecnológicas, impulsado por el PCT Cartuja y la creciente digitalización de sectores tradicionales.
 
 > **Referencia:** Todos los datos económicos se detallan en el documento adjunto:
-> * [**Informe de Coyuntura Económica (Cámara de Comercio de Sevilla)**](../documentos/Informe-4Q-24-v3-2.pdf)
+> * [**Informe de Coyuntura Económica (Cámara de Comercio de Sevilla)**](./Proyecto_ASIR2_JavierRocha/ud1/documentos/Informe-4Q-24-v3-2.pdf)
 
 ---
 
