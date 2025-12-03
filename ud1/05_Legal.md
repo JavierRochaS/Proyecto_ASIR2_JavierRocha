@@ -10,7 +10,7 @@ Dada la naturaleza de la información tratada por Lamaigniere Shipping (datos de
 * **Confidencialidad:** Los sistemas de backup incluirán cifrado robusto para proteger la información almacenada fuera de las instalaciones principales.
 
 > **Referencias Normativas Adjuntas:**
-> * [Reglamento General de Protección de Datos (RGPD - UE)](documentos/RPGD.pdf)
+> * [Reglamento General de Protección de Datos (RGPD - UE)](documentos/RGPD.pdf)
 > * [Ley Orgánica de Protección de Datos (LOPDGDD - España)](documentos/BOE-protecciondedatos.pdf)
 
 ---
