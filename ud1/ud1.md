@@ -42,4 +42,9 @@
    *Fases de ejecución técnica y cronograma.*
 
 
+ ## Webgrafía.
+ 
+* **Fuente Económica:** [Informe de Coyuntura - Cámara de Comercio de Sevilla](https://fundacioncamaradesevilla.com/informes/) (Basado tambien en el ultimo informe del 2024 para que fuera acorde con el sepe, ya que no consta del año 2025 en el sepe)
 
+* **Fuente Oficial:** [Observatorio de las Ocupaciones del SEPE - Informes Provinciales](https://www.sepe.es/HomeSepe/que-es-observatorio/informes-anuales-mercado-trabajo-provincial-municipal.html)
+   *(Instrucciones: En la web, seleccionar "Informes del mercado de trabajo provincial" > "Sevilla" > "2024").*
