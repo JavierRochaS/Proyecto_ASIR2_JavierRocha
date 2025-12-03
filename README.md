@@ -1,4 +1,4 @@
-# Proyecto_ASIR2_JavierRocha
+# Proyecto ASIR2 JavierRocha
 
 **Diseño de Infraestructura TIC Integral y Resiliente para PYME Logística**
 
