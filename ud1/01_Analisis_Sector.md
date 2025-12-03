@@ -1,7 +1,7 @@
 # 1. Análisis del sector tecnológico
 
 ## Introducción
-El presente análisis se basa en datos oficiales extraídos de informes de coyuntura económica y del mercado laboral, los cuales se adjuntan como anexo en la carpeta `documentos` de este repositorio para su consulta detallada.
+El presente análisis se basa en datos oficiales extraídos de informes de coyuntura económica, del mercado laboral y del ecosistema de innovación andaluz. Todos los documentos de referencia se adjuntan como anexo en la carpeta `documentos` de este repositorio para su consulta detallada.
 
 ---
 
@@ -17,8 +17,21 @@ Según el **Informe de Coyuntura Económica de la Cámara de Comercio de Sevilla
 
 ---
 
+## Ecosistema de Innovación y Startups en Andalucía
+El análisis del informe **"TechPark - Ecosistema Startup Andalucía"** revela un crecimiento explosivo en el tejido empresarial tecnológico de la región, lo que genera una demanda directa de infraestructuras y profesionales cualificados.
+
+**Datos Relevantes para el Proyecto:**
+* **Crecimiento Exponencial:** El número de startups en Andalucía ha experimentado un crecimiento del **31% en el último año**, pasando de 520 a 682 empresas registradas. Esto demuestra un entorno muy favorable para la adopción de tecnología.
+* **Sectores Tractores:** Los sectores que lideran la innovación y la demanda tecnológica son **Health (Salud)**, **Agrotech (Agricultura)** y **Turismo**, además de un fuerte componente de **Servicios Empresariales**. Esto indica que las competencias ASIR son transversales y aplicables a las industrias más pujantes de la región.
+* **Perfil de Empresa:** Un 25% de las startups tiene un tamaño medio (entre 6 y 10 empleados), un perfil que coincide con el de una PYME en crecimiento que requiere profesionalizar su infraestructura TI, tal como se propone en este proyecto.
+
+> **Referencia:** Los datos del ecosistema emprendedor se han extraído del informe adjunto:
+> * [**TechPark - Ecosistema Startup Andalucía**](documentos/techpark.pdf)
+
+---
+
 ## Mercado Laboral para ASIR (Datos Oficiales)
-Basándonos en el **Informe del Mercado de Trabajo de Sevilla (Datos 2024)** publicado por el SEPE, el sector servicios (donde se encuadra la logística y la tecnología) sigue siendo el principal motor de empleo.
+Basándonos en el **Informe del Mercado de Trabajo de Sevilla (Datos 2024)** publicado por el SEPE, el sector servicios sigue siendo el principal motor de empleo, pero la tecnología destaca por sus perspectivas de futuro.
 
 **Oportunidades para el perfil ASIR:**
 El informe destaca una tendencia clara hacia la digitalización, generando una alta demanda de perfiles técnicos especializados:
