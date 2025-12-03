@@ -19,7 +19,7 @@
 ## Introducción
 Este repositorio contiene la documentación inicial para el diseño de una infraestructura informática segura y centralizada. El proyecto parte de un análisis del entorno tecnológico en **Sevilla (Andalucía)**, utilizando datos oficiales del *Informe del Mercado de Trabajo 2025*, y se aplica a una empresa del sector logístico en el entorno de **Coria del Río**.
 
-## Estructura del Proyecto
+## Indice de apartados.
 
 1. [**Análisis del sector tecnológico**](./01_Analisis_Sector.md)
    *Datos extraídos del Informe SEPE 2025 sobre el crecimiento TIC en Sevilla.*
