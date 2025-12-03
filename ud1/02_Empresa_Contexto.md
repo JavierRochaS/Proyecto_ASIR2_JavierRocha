@@ -7,6 +7,12 @@
 * **Contexto Real:** Lamaigniere es un operador logístico global con más de 100 años de historia, especializado en transporte internacional (marítimo, aéreo, terrestre) y, crucialmente, en **Gestión Aduanera**.
     * **Web Corporativa:** [Lamaigniere.com](https://www.lamaigniere.com/)
 * **Mapa de Suelo Industrial:** [Ficha del Polígono La Estrella (Prodetur - Diputación de Sevilla)](https://sueloindustrial.prodetur.es/poligono/pi-carretera-de-la-isla)
+  
+<p align="center">
+  <img src="img/isla.png" alt="Estructura Visual del Proyecto" width="90%">
+</p>
+
+
 ## Contexto del Sector (Datos SEPE)
 El sector de **Transporte y Almacenamiento** es estratégico en Sevilla, representando el **3,98% de la afiliación** a la Seguridad Social. En el caso de Lamaigniere, el valor añadido radica en la gestión de documentación crítica internacional.
 
