@@ -37,10 +37,10 @@ Basándonos en el **Informe del Mercado de Trabajo de Sevilla (Datos 2024)** pub
 El informe destaca una tendencia clara hacia la digitalización, generando una alta demanda de perfiles técnicos especializados:
 
 1.  **Actividades con Mejores Perspectivas:**
-    La actividad de **"Programación, consultoría y otras actividades relacionadas con la informática"** se sitúa en el **Top 10** de sectores con mejor proyección de empleo para 2025 en la provincia (Tabla 12 del informe).
+    La actividad de **"Programación, consultoría y otras actividades relacionadas con la informática"** se sitúa en el **Top 10** de sectores con mejor proyección de empleo para 2025 en la provincia (ver **Tabla 12, pág. 85** del informe).
 
 2.  **Puestos de Difícil Cobertura (Vacantes):**
-    Según la encuesta a expertos (Tabla 16), las empresas sevillanas tienen dificultades para encontrar candidatos cualificados en áreas clave para ASIR:
+    Según la encuesta a expertos (ver **Tabla 16, pág. 100** del informe), las empresas sevillanas tienen dificultades para encontrar candidatos cualificados en áreas clave para ASIR:
     * **"Diseñadores y administradores de bases de datos"**.
     * **"Analistas y diseñadores de software y multimedia"**.
     * **"Técnicos en electrónica y soporte"**.
