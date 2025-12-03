@@ -21,7 +21,7 @@ A diferencia de una pequeña empresa de transporte local, Lamaigniere maneja un 
 
 * **Plantilla Aproximada (Sede Sevilla):** 40-50 empleados (Dirección, Dpto. Aduanas, Tráfico Marítimo/Aéreo, Administración, Comercial, Almacén).
 
-* **Situación TI Actual (Escenario Simulado para el Proyecto):**
+* **Situación TI Actual:**
     * **Sistemas Heredados (Legacy):** La empresa ha crecido rápido y su infraestructura TI se ha quedado obsoleta.
     * **Caos Documental Crítico:** El Departamento de Aduanas y el de Tráfico manejan miles de documentos PDF (DUAs, BLs, facturas internacionales) que se comparten por carpetas de red desorganizadas o correos electrónicos, generando duplicidades y errores de versión.
     * **Seguridad Comprometida:** Existen PCs con Windows 10 y otros antiguos con Windows 7. No hay una política de dominio centralizada estricta, y las contraseñas a veces se comparten para agilizar operativas urgentes.
