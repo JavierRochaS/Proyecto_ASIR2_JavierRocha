@@ -9,7 +9,7 @@
 * **Mapa de Suelo Industrial:** [Ficha del Polígono La Estrella (Prodetur - Diputación de Sevilla)](https://sueloindustrial.prodetur.es/poligono/pi-carretera-de-la-isla)
 * **Imagen del link:** 
 <p align="center">
-  <img src="img/isla.png" alt="Estructura Visual del Proyecto" width="90%">
+  <img src="img/isla.png" alt="Estructura Visual del Proyecto" width="70%">
 </p>
 
 
