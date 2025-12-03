@@ -48,3 +48,5 @@
 
 * **Fuente Oficial:** [Observatorio de las Ocupaciones del SEPE - Informes Provinciales](https://www.sepe.es/HomeSepe/que-es-observatorio/informes-anuales-mercado-trabajo-provincial-municipal.html)
    *(Instrucciones: En la web, seleccionar "Informes del mercado de trabajo provincial" > "Sevilla" > "2024").*
+
+* **Fuente de Suelo Industrial:** [Ficha del Polígono La Estrella (Prodetur - Diputación de Sevilla)](https://sueloindustrial.prodetur.es/)
