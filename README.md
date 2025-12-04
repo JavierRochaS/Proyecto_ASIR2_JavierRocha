@@ -10,8 +10,9 @@
 ![Inglés Técnico](https://img.shields.io/badge/Inglés-INGLÉS-yellow)
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
-## Alumno: Javier Alejandro Rocha Sánchez
-## Título: Implantación de Nube Privada Corporativa, Servicios de Alta Disponibilidad y Monitorización Proactiva en entorno virtualizado.
+## Javier Alejandro Rocha Sánchez
+## Implantación de Nube Privada Corporativa, Servicios de Alta Disponibilidad y Monitorización Proactiva en entorno virtualizado.
+
 ## Índice del proyecto
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./ud1/ud1.md)
