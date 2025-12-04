@@ -1,7 +1,7 @@
 # 1. Análisis del sector tecnológico
 
 ## Introducción
-El presente análisis se basa en datos oficiales extraídos de informes de coyuntura económica, del mercado laboral y del ecosistema de innovación andaluz. Todos los documentos de referencia se adjuntan como anexo en la carpeta `documentos` de este repositorio para su consulta detallada.
+El presente análisis se basa en datos oficiales extraídos de informes de coyuntura económica, del mercado laboral y del ecosistema de innovación andaluz. Todos los documentos de referencia se adjuntan como anexo en la carpeta `documentos` de este repositorio.
 
 ---
 
