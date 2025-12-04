@@ -13,15 +13,6 @@
 </p>
 
 ---
-
-## Enlaces a recursos de la unidad
-
-- [Documentos de la unidad](./documentos/)
-- [Diagramas e imágenes](./img/)
-
-
----
-
 ## Indice de apartados.
 
 1. [**Análisis del sector tecnológico**](./01_Analisis_Sector.md)
@@ -41,6 +32,14 @@
 
 6. [**Guion inicial del proyecto**](./06_Guion.md)
    *Fases de ejecución técnica y cronograma.*
+
+---
+
+
+## Enlaces a recursos de la unidad
+
+- [Documentos de la unidad](./documentos/)
+- [Diagramas e imágenes](./img/)
 
 
  ## Webgrafía.
