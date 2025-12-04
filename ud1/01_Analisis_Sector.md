@@ -21,9 +21,9 @@ Según el **Informe de Coyuntura Económica de la Cámara de Comercio de Sevilla
 El análisis del informe **"TechPark - Ecosistema Startup Andalucía"** revela un crecimiento explosivo en el tejido empresarial tecnológico de la región, lo que genera una demanda directa de infraestructuras y profesionales cualificados.
 
 **Datos Relevantes para el Proyecto:**
-* **Crecimiento Exponencial:** El número de startups en Andalucía ha experimentado un crecimiento del **31% en el último año**, pasando de 520 a 682 empresas registradas. Esto demuestra un entorno muy favorable para la adopción de tecnología.
-* **Sectores Tractores:** Los sectores que lideran la innovación y la demanda tecnológica son **Health (Salud)**, **Agrotech (Agricultura)** y **Turismo**, además de un fuerte componente de **Servicios Empresariales**. Esto indica que las competencias ASIR son transversales y aplicables a las industrias más pujantes de la región.
-* **Perfil de Empresa:** Un 25% de las startups tiene un tamaño medio (entre 6 y 10 empleados), un perfil que coincide con el de una PYME en crecimiento que requiere profesionalizar su infraestructura TI, tal como se propone en este proyecto.
+* **Crecimiento Exponencial:** El número de startups en Andalucía ha experimentado un crecimiento del **31% en el último año**, pasando de 520 a 682 empresas registradas (ver **pág. 7** del informe). Esto demuestra un entorno muy favorable para la adopción de tecnología.
+* **Sectores Tractores:** Los sectores que lideran la innovación y la demanda tecnológica son **Health (Salud)**, **Agrotech (Agricultura)** y **Turismo**, además de un fuerte componente de **Servicios Empresariales** (ver **pág. 14** del informe). Esto indica que las competencias ASIR son transversales y aplicables a las industrias más pujantes de la región.
+* **Perfil de Empresa:** Un 25% de las startups tiene un tamaño medio (entre 6 y 10 empleados), un perfil que coincide con el de una PYME en crecimiento que requiere profesionalizar su infraestructura TI, tal como se propone en este proyecto (ver **pág. 18** del informe).
 
 > **Referencia:** Los datos del ecosistema emprendedor se han extraído del informe adjunto:
 > * [**TechPark - Ecosistema Startup Andalucía**](documentos/techpark.pdf)
