@@ -3,7 +3,7 @@
 ## Ficha de la Empresa
 * **Nombre Comercial:** *Lamaigniere Shipping, S.L.* (Empresa real seleccionada como modelo).
 * **Ubicación Real:** Polígono Industrial La Isla, Calle Río Viejo, Dos Hermanas (Sevilla).
-* **Justificación de la Ubicación:** El Polígono de la Isla es el principal nodo logístico del área metropolitana de Sevilla, con conexión directa a la SE-30 y A-4, albergando grandes centros de distribución (Amazon, Decathlon, Herba).
+* **Justificación de la Ubicación:** El Polígono de la Isla es el principal nodo logístico del área metropolitana de Sevilla, con conexión directa a la SE-30 y A-4, albergando grandes centros de distribución (Amazon, Decathlon).
 * **Contexto Real:** Lamaigniere es un operador logístico global con más de 100 años de historia, especializado en transporte internacional (marítimo, aéreo, terrestre) y, crucialmente, en **Gestión Aduanera**.
     * **Web Corporativa:** [Lamaigniere](https://lamaignere.com/es/)
 * **Mapa de Suelo Industrial:** [Ficha del Polígono La Estrella (Prodetur - Diputación de Sevilla)](https://sueloindustrial.prodetur.es/poligono/pi-carretera-de-la-isla)
