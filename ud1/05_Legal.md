@@ -6,12 +6,12 @@ El diseño de la nueva infraestructura TIC se fundamenta en el cumplimiento estr
 Dada la naturaleza de la información tratada por Lamaigniere Shipping (datos de clientes internacionales, expedientes de aduanas, RRHH), la solución propuesta se basa en el principio de "Privacidad desde el Diseño":
 
 * **Soberanía y Control del Dato:** Al optar por una infraestructura de nube privada alojada localmente ("on-premise"), la empresa mantiene el control absoluto sobre la ubicación física y lógica de los datos, cumpliendo con las exigencias de control sobre transferencias internacionales.
-* **Seguridad del Tratamiento (Art. 32 RGPD):** Se implementarán medidas técnicas como la autenticación centralizada única y el cifrado de datos sensibles en reposo y en tránsito (ver **Página 52** del documento RGPD adjunto).
+* **Seguridad del Tratamiento (Art. 32 RGPD):** Se implementarán medidas técnicas como la autenticación centralizada única y el cifrado de datos sensibles en reposo y en tránsito.
 * **Confidencialidad:** Los sistemas de backup incluirán cifrado robusto para proteger la información almacenada fuera de las instalaciones principales, conforme al Título VIII de la LOPDGDD sobre garantía de derechos digitales.
 
 > **Referencias Normativas (Documentos locales):**
 > * [**Reglamento General de Protección de Datos (RGPD - UE)**](documentos/RPGD.pdf) (Ver Art. 32 "Seguridad del tratamiento", Pág. 52)
-> * [**Ley Orgánica de Protección de Datos (LOPDGDD - España)**](documentos/BOE-protecciondedatos.pdf)
+> * [**Ley Orgánica de Protección de Datos (LOPDGDD - España)**](documentos/BOE-protecciondedatos.pdf) (Ver Titulo VIII, Pág. 50 a 58)
 
 ---
 
