@@ -13,5 +13,5 @@ Tras la auditoría inicial realizada a la infraestructura actual, se han detecta
 | **Mantenimiento y Operaciones** | Mantenimiento reactivo. Los problemas de rendimiento o capacidad (discos llenos, cuellos de botella) solo se detectan cuando causan una caída del servicio. | **Monitorización Proactiva de la Infraestructura:** Desplegar herramientas de supervisión en tiempo real del estado de los servidores y servicios para anticiparse a los fallos. |
 | **Seguridad de Red Perimetral** | Red plana sin segmentación interna. El dispositivo de acceso a Internet carece de capacidades avanzadas de filtrado de tráfico. | **Segmentación Lógica y Seguridad Perimetral:** Dividir la red en segmentos lógicos según funciones/departamentos e implementar un cortafuegos para filtrar el tráfico entrante, saliente y entre zonas. |
 
-## Justificación de la Propuesta
+## Propuesta
 La propuesta se centra en solventar las vulnerabilidades críticas detectadas transformando una infraestructura precaria y manual en un entorno gestionado y profesional. Se prioriza la **centralización de la gestión** (usuarios y datos), la **automatización de procesos críticos** (backups) y la introducción de la **alta disponibilidad y la monitorización** para asegurar la continuidad operativa de la empresa.
