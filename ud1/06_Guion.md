@@ -3,7 +3,7 @@
 A continuación, se presenta una planificación inicial de alto nivel para las fases de ejecución del proyecto de modernización de la infraestructura TIC. Este guion define los hitos principales y el orden lógico de implementación.
 
 ### FASE 1: Análisis Detallado y Diseño de la Arquitectura (Semanas 1-2)
-*  Auditoría exhaustiva de la infraestructura de red y sistemas actuales (inventario de hardware/software).
+*  Auditoría exhaustiva(propia o externa, quizas mas externa.) de la infraestructura de red y sistemas actuales (inventario de hardware/software).
 *  Diseño de la nueva topología de red lógica (plan de direccionamiento IP, definición de zonas de seguridad).
 *  Definición de los requisitos de hardware para el servidor central y selección de la plataforma de virtualización.
 
