@@ -11,7 +11,7 @@ Dada la naturaleza de la información tratada por Lamaigniere Shipping (datos de
 
 > **Referencias Normativas (Documentos locales):**
 > * [**Reglamento General de Protección de Datos (RGPD - UE)**](documentos/RPGD.pdf) (Ver Art. 32 "Seguridad del tratamiento", Pág. 52)
-> * [**Ley Orgánica de Protección de Datos (LOPDGDD - España)**](documentos/BOE-protecciondedatos.pdf) (Ver Titulo VIII, Pág. 50 a 58)
+> * [**Ley Orgánica de Protección de Datos (LOPDGDD - España)**](documentos/BOE-protecciondedatos.pdf) (Ver **Titulo VIII**, Pág. 50 a 58)
 
 ---
 
@@ -22,7 +22,7 @@ Para garantizar la seguridad jurídica y la sostenibilidad económica de la nuev
 * **Auditoría de Cumplimiento:** Como paso previo a la implantación, se requiere realizar un inventario para detectar y regularizar cualquier software propietario sin licencia válida en la infraestructura actual, evitando infracciones de derechos de autor.
 
 > **Referencia Normativa (Documento local):**
-> * [**Ley de Propiedad Intelectual (Texto Refundido)**](documentos/BOE-propiedadintelectual.pdf) (Ver Título VII "Programas de ordenador", Pág. 34)
+> * [**Ley de Propiedad Intelectual (Texto Refundido)**](documentos/BOE-propiedadintelectual.pdf) (Ver **Título VII** "Programas de ordenador", Pág. 34)
 
 ---
 
@@ -43,4 +43,4 @@ El diseño de la solución tendrá en cuenta la seguridad física y ergonómica 
 * **Ergonomía:** La configuración de los puestos de trabajo informatizados deberá respetar las pautas sobre pantallas de visualización de datos (PVD) para prevenir la fatiga visual y postural.
 
 > **Referencia Normativa (Documento local):**
-> * [**Ley de Prevención de Riesgos Laborales (PRL)**](documentos/BOE-PRL.pdf) (Ver Capítulo III "Derechos y obligaciones", Pág. 11)
+> * [**Ley de Prevención de Riesgos Laborales (PRL)**](documentos/BOE-PRL.pdf) (Ver **Capítulo III** "Derechos y obligaciones", Pág. 11)
