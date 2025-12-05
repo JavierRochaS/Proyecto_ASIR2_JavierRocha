@@ -32,7 +32,7 @@ La empresa presta servicios por vía electrónica a través de sus plataformas w
 * **Seguridad de las Comunicaciones:** Se garantizará que el acceso a la nueva intranet corporativa y a la plataforma de gestión documental se realice exclusivamente a través de protocolos seguros (HTTPS) con certificados válidos, protegiendo la integridad y confidencialidad de las comunicaciones telemáticas, en línea con las obligaciones de los prestadores de servicios 
 
 > **Referencia Normativa (Documento local):**
-> * [**Ley de Servicios de la Sociedad de la Información (LSSI-CE)**](documentos/BOE-lss.pdf) (ver **Título II** del documento adjunto).
+> * [**Ley de Servicios de la Sociedad de la Información (LSSI-CE)**](documentos/BOE-lss.pdf) (ver **Título II** del documento adjunto, Pág. 6 a 13)
 
 ---
 
